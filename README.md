@@ -15,7 +15,7 @@ I'm a freshmen Computer Science major and Business Analytics minor at SUNY New P
 
 - Build a data-driven web application.
 - Complete a certification in Business Analytics (e.g., Tableau, Google Data Analytics).
-- Land an internship in data science or business intelligence.
+- Secure an internship in software development, data analysis, or business intelligence to apply my technical and analytical skills in a real-world setting.
 - Contribute to open-source projects.
 
 <h2>🤳 Connect with Me:</h2>
