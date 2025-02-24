@@ -6,7 +6,7 @@ I'm a freshmen Computer Science major and Business Analytics minor at SUNY New P
 
 <h2>📚 Currently Learning:</h2>
 
-- **CPS 310**: Exploring software development principles and practices using Java.
+- **Computer Science 2 - Data Structure**: Exploring software development principles and practices using Java.
 - **Self-Learning**: Exploring Python and SQL for data analysis.
 - **Intro to Proof**: Building foundational skills in mathematical reasoning and logic.
 - **Calculus 2**: Deepening my understanding of advanced calculus concepts.
