@@ -13,7 +13,7 @@ I'm a freshman Computer Science major and Business Analytics minor at SUNY New P
 
 <h2>🎯 Goals for 2025:</h2>
 
-- Earn certifications in Google Data Analytics, Tableau Desktop Specialist, and AWS Certified Cloud Practitioner.
+- Earn certifications in Google Data Analytics, Meta Back-End or Front-End Developer Certification (Coursera), and TensorFlow Developer Certificate.
 - Build foundational skills in programming, data analysis, and cloud computing.
 - Secure an internship in software development, data analysis, or business intelligence.
 - Contribute to open-source projects to gain real-world experience.
