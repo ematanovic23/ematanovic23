@@ -2,7 +2,7 @@
 
 <h2>📝 About Me:</h2>
 
-I'm a freshman Computer Science major and Business Analytics minor at SUNY New Paltz. My high school programs gave me a strong foundation in engineering and computer where I built and coded a robot and designed a bridge to demonstrate truss. I'm passionate about using data and technology to solve real-world problems. I enjoy learning new skills and applying them to create impactful solutions.
+I'm a freshman Computer Science major and Business Analytics minor at SUNY New Paltz. My high school programs gave me a strong foundation in engineering and computer from building and coding a robot to designing a bridge to demonstrate truss. I'm passionate about using data and technology to solve real-world problems. I enjoy learning new skills and applying them to create impactful solutions.
 
 <h2>📚 Currently Learning:</h2>
 
